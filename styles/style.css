@@ -166,7 +166,7 @@
 .hero-image {
 	position: absolute;
 	right: 20%;
-	top: 20%;
+	top: 19%;
 }
 
 .main-hero-image img {
@@ -258,7 +258,7 @@
 .best-seller-item h3 {
 	font-size: 14px;
 	color: #0e1422;
-	line-height: #0e1422;
+	line-height: 29.05px;
 	padding-top: 25px;
 }
 
@@ -306,7 +306,7 @@
 	height: 311px;
 	position: absolute;
 	right: 20%;
-	top: 198%;
+	top: 190%;
 }
 
 .Categories-title {
@@ -406,7 +406,6 @@
 }
 
 .newsletter-title p {
-	font-size: #5c5f6a;
 	font-size: 14px;
 	line-height: 24.5px;
 	padding-top: 24px;
@@ -462,3 +461,8 @@
 	padding-top: 20px;
 	text-align: center;
 }
+
+
+
+
+
